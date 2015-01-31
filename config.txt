@@ -1,0 +1,5 @@
+ip = "localhost"
+port = 12001
+player_name = "noname"
+music = 0
+sfx = 1
